@@ -79,5 +79,5 @@ $ php -i | grep "Loaded Configuration File"
 $ sudo systemctl restart apache2
 
 
-## Fist check php verison then get will version and change version fist previous version a2dismod with enable new version and new version sudo update-alternative command use and run the apache server.
+## First check php verison then get will version and change version fist previous version a2dismod with enable new version and new version sudo update-alternative command use and run the apache server.
 
